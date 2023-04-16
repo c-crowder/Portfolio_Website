@@ -1,2 +1,2 @@
 web: gunicorn projects:app
-web: gunicorn gettingstarted.wsgi
+web: gunicorn personal_portfolio.wsgi
